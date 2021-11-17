@@ -13,5 +13,5 @@ Please see the tutorial section Implementation of the workflow for more details.
 
 Getting started
 ----------------
-1.	Copy the folder Redstart-model and dezip it
+1.	Copy the folder Redstart-model
 2.	Follow the instructions on the tutorial
