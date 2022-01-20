@@ -15,3 +15,7 @@ Getting started
 ----------------
 1.	Copy the folder Redstart-model
 2.	Follow the instructions on the tutorial
+
+How to cite
+-----------
+Droz, Boris, Laesser, Jacques & Spaar, Reto (2022). Species distribution models (SDMs) of Common Redstart (Phoenicurus phoenicurus) – workflow and tutorial-v1.0. Zenodo. https://doi.org/10.5281/zenodo.5817737
