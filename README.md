@@ -24,3 +24,5 @@ Additional materials
 --------------------
 Laesser, Jacques, Droz, Boris, & Spaar, Reto. (2022). Identification des quartiers verts d'importance pour la biodiversité – Modèle d'habitat du rougequeue à front blanc en milieux urbanisés à l'intention des gestionnaires. Zenodo. https://doi.org/10.5281/zenodo.5949033
 
+The folder "evaluate_prediction" contain script to evaluate the performance of the prediction compare to the calibration area.
+
